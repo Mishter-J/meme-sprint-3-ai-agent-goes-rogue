@@ -131,7 +131,7 @@ def render():
         ("and put it back.", 34, "#111827"),
         ("git blame says", 38, "#b91c1c"),
         ("YOU did it.", 52, "#b91c1c"),
-        ("— your rogue agent", 34, "#1e3a8a"),
+        ("\u2014 your rogue agent", 34, "#1e3a8a"),
     ]
     y = 118
     for text, size, color in lines:
